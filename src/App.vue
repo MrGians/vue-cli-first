@@ -6,7 +6,7 @@
 </template>
 
 <script>
-// import HelloWorld from "./components/HelloWorld.vue";
+// import MyJumbotron from "./components/MyJumbotron.vue";
 import MyTitle from "./components/MyTitle.vue";
 export default {
   name: "App",
